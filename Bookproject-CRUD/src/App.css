@@ -1,0 +1,12 @@
+.card-text{
+  display: -webkit-box;
+  -webkit-line-clamp: 4;   
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.logo{
+  width: 50px;
+  height: 40px;
+  border-radius: 20px;
+  margin-left: 40px;
+}
